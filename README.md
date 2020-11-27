@@ -54,7 +54,7 @@ The project also helps the users to keep track of the player details in a comput
      Run the project :
       
           - Open a new tab in chrome
-          - type the following url : http://localhost/your_project_name_inside_www_directory/index.html
+          - type the following url : http://localhost/FIFA-18-Management-System-master/fifa/index.html
           - enjoy.
  
 ## Linting tool used:
